@@ -1,5 +1,5 @@
 # Minecraft NOCODE
-用 `nocode` 做的开源 Minecraft, [访问官网](#).
+用 `nocode` 做的开源 Minecraft, [访问官网](https://minecraft-in-python.github.io/nocode.html).
 
 ## 游玩
 要游玩用 `nocode` 做的 Minecraft, 你得先安装:
