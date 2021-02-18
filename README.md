@@ -1,8 +1,8 @@
 # Minecraft NOCODE
-用 `  ` 做的开源 Minecraft, [访问官网](#).
+用 `nocode` 做的开源 Minecraft, [访问官网](#).
 
 ## 游玩
-要游玩用 `  ` 做的 Minecraft, 你得先安装:
+要游玩用 `nocode` 做的 Minecraft, 你得先安装:
 ```
 ```
 
@@ -17,7 +17,7 @@
 # 最终目标
 下面这个 TODO 列表是 Minecraft 要实现的功能:
 
-- [ ] 
-- [ ]
-- [ ]
+- [ ] 1
+- [ ] 2
+- [ ] 3
 - [ ] ...
