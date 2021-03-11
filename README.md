@@ -1,43 +1,43 @@
 # Minecraft NOCODE
-用 `nocode` 做的开源 Minecraft, [访问官网](https://minecraft-in-python.github.io/nocode.html).
+Open source Minecraft made with `nocode`, [visit official website](https://minecraft-in-python.github.io/nocode.html).
 
-## 游玩
-要游玩用 `nocode` 做的 Minecraft, 你得先安装:
-```
-```
-
-如果看到如下信息, 说明你安装成功了:
+## Play
+To play Minecraft with `nocode`, you need to install it first:
 ```
 ```
 
-不要太着急, 还有事情没有做完:
+If you see the following message, your installation has been successful:
 ```
 ```
 
-最后, 你就可以愉快的运行游戏了:
+Don't be in a hurry, there's still work to be done:
 ```
 ```
 
-## 碰到 BUG
-首先, 不要慌张. 慌张就会出乱子. 不要给作者提 issue, 因为作者经常使用 `nocode`.
-
-好了, 你首先应该:
+Finally, you will be able to run the game happily:
 ```
 ```
 
-如果看到了一些东西, 说明你可以到下一步了:
+## Bug encountered
+First of all, don't panic. If you panic, you'll make a mess. Don't raise an issue with the team, because the team often uses `nocode`.
+
+Well, the first thing you should do is:
 ```
 ```
 
-无论你看到了什么, 都不要紧张, 都已经结束了...
+If you see something, you are ready to go to the next step:
+```
+```
 
-# 提交
-> 这个项目好棒棒, 我想提交!!
+Whatever you see, don't stress, it's over...
 
-**(滚)**
+# Submit
+> This project is awesome, I want to submit it!!!
 
-# 最终目标
-下面这个 TODO 列表是 Minecraft 要实现的功能:
+**(roll)**
+
+# Final goal
+The following TODO list is what Minecraft will achieve:
 
 - [ ] None
 - [ ] null
