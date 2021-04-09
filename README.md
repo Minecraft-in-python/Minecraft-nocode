@@ -1,5 +1,5 @@
 # Minecraft NOCODE
-Open source Minecraft made with `nocode`, [visit official website](https://minecraft-in-python.github.io/nocode.html).
+Open source Minecraft made with `nocode`.
 
 ## Play
 To play Minecraft with `nocode`, you need to install it first:
